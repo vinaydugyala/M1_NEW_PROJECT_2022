@@ -1,4 +1,4 @@
-# M1_NEW_PROJECT_2022
+# M1_VOTING SYSTEM_2022
 # Mini-Voting-System-Using-C-Language
 
     -> Allows us to set up a flexible and trustworthy voting system
