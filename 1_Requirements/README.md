@@ -5,8 +5,6 @@
 ## Research
    -> wikipedia
    -> Google
-
-
 ### SWOT ANALYSIS
 ![image](https://user-images.githubusercontent.com/80596756/160764691-1d2fbab5-7234-43a8-af72-a7bab87d9be2.png)
 #### Who Invented EVM
