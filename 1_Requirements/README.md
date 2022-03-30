@@ -9,7 +9,7 @@
 
 ### SWOT ANALYSIS
 ![image](https://user-images.githubusercontent.com/80596756/160764691-1d2fbab5-7234-43a8-af72-a7bab87d9be2.png)
-### Who Invented EVM
+#### Who Invented EVM
 ->The EVM was designed by two professors of IIT Bombay, A.G. Rao and Ravi Poovaiah
 ##### What is the use of EVM's
 -> Electronic Voting Machine (EVM) is a portable instrument used for conducting elections to Parliament and Legislative Assembly
